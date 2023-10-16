@@ -7,12 +7,15 @@
 
 - ⚡ Fun fact **Iam funny**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/saikumar dumpeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saikumar dumpeti" height="30" width="40" /></a>
-<a href="https://instagram.com/sai_dumpeti" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sai_dumpeti" height="30" width="40" /></a>
-</p>
 
+## <span style="color:#ff69b4">Connect with Me</span>
+You can connect with me on different platforms:
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://linkedin.com/in/www.linkedin.com/in/saikumardumpeti)
+- [<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />](https://www.hackerrank.com/saikumar_dumpet1)
+  
+
+## <span style="color:#ff69b4">Languages and Tools</span>
+Here are some of the languages and tools I work with:
 <span style="display:flex;flex-wrap:wrap;">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
