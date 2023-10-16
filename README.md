@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Saikumar Dumpeti</h1>
-<h3 align="center">A passionate full-stack developer from India</h3>
+<h1 align="center">Hi there👋, I'm Saikumar Dumpeti</h1>
+## <span style="color:#ff69b4">🚀 Software Engineer | Full Stack Developer | Embracing the Coding Journey 🌱</span>
 
 - 💬 Ask me about **Mern, Python, JavaScript**
 
