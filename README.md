@@ -9,7 +9,13 @@
 
 
 # 💫 About Me:
-A fun-loving, passionate, and growth-oriented individual on a journey to improve my skills and reach new heights in the world of software engineering. I began as a mechanical engineer, never imagining that lines of code would be this much fun and addictive. Back in my mechanical engineering days, I thought coding was akin to rocket science, but now, I realize that with a laptop, some internet, and a bit of googling skills, we can accomplish so much right from the comfort of our homes.<br><br>💻 From Python 🐍 to JavaScript 🚀, and diving into the intricacies of MySQL 🗄️, I'm always eager to take on fresh challenges. It's amazing how just sitting with a laptop and a Jio net pack can lead to such incredible adventures.<br><br>🖥️ Whether it's the front-end, back-end, or databases, I'm all in. Code, create, and caffeinate ☕️ - the three C's that fuel my journey to develop exceptional software solutions.
+🚀 Here's a glimpse of my skills and experiences:
+
+- 🎓 I hold a degree in Electronics and Communication Engineering, providing me with a strong technical background.
+- 💻 I have hands-on experience in Full Stack Development, proficient in technologies like Python, JavaScript, SQLite, Bootstrap, HTML, CSS, Express.js, and Node.js.
+- 🔧 I specialize in building responsive and interactive web applications, ensuring a seamless user experience.
+- 🌱 I'm constantly learning and exploring new technologies to stay ahead in the ever-evolving tech landscape.
+
 
 
 ## 🌐 <span style="color:#ff69b4">Connect with Me</span>
