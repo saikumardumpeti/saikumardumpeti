@@ -12,8 +12,11 @@
 A fun-loving, passionate, and growth-oriented individual on a journey to improve my skills and reach new heights in the world of software engineering. I began as a mechanical engineer, never imagining that lines of code would be this much fun and addictive. Back in my mechanical engineering days, I thought coding was akin to rocket science, but now, I realize that with a laptop, some internet, and a bit of googling skills, we can accomplish so much right from the comfort of our homes.<br><br>💻 From Python 🐍 to JavaScript 🚀, and diving into the intricacies of MySQL 🗄️, I'm always eager to take on fresh challenges. It's amazing how just sitting with a laptop and a Jio net pack can lead to such incredible adventures.<br><br>🖥️ Whether it's the front-end, back-end, or databases, I'm all in. Code, create, and caffeinate ☕️ - the three C's that fuel my journey to develop exceptional software solutions.
 
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sai_dumpeti) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/saikumardumpeti) 
+## 🌐 <span style="color:#ff69b4">Connect with Me</span>
+You can connect with me on different platforms:
+- [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />](https://www.linkedin.com/in/saikumardumpeti/)
+- [<img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank" />](https://www.hackerrank.com/saikumar_dumpet1)
+
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
